@@ -4,6 +4,14 @@ A responsive landing page for a fictional music storytelling platform about the 
 
 **Demo:** https://zhuridochka.github.io/rhapsodia_demo/
 
+## Preview
+
+### Desktop
+![Desktop preview](./previews/Screenshot_desktopjpg.jpg)
+
+### Mobile
+![Mobile preview](./previews/Screenshot_mobile.jpg)
+
 ## Highlights
 - Hero section with a full-width background photo, adapted for desktop and mobile
 - Bold display typography with a dark palette and red accent color
@@ -13,14 +21,6 @@ A responsive landing page for a fictional music storytelling platform about the 
 
 ## Tech stack
 HTML5, CSS3, JavaScript
-
-## Preview
-
-### Desktop
-![Desktop preview](./previews/Screenshot_desktopjpg.jpg)
-
-### Mobile
-![Mobile preview](./previews/Screenshot_mobile.jpg)
 
 ## Run locally
 Clone the repository and open `index.html` in your browser.
