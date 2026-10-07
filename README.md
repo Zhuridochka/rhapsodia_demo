@@ -4,13 +4,12 @@ A responsive landing page for a fictional music storytelling platform about the 
 
 **Demo:** https://zhuridochka.github.io/rhapsodia_demo/
 
-## Preview
+## Screenshots
 
-### Desktop
-![Desktop preview](./previews/Screenshot_desktopjpg.jpg)
+| Desktop | Mobile |
+|---|---|
 
-### Mobile
-![Mobile preview](./previews/Screenshot_mobile.jpg)
+| ![Desktop preview](./previews/Screenshot_desktopjpg.jpg) | ![Mobile preview](./previews/Screenshot_mobile.jpg)
 
 ## Highlights
 - Hero section with a full-width background photo, adapted for desktop and mobile
